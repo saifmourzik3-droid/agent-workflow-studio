@@ -1,0 +1,8 @@
+Agent Workflow Studio — portfolio edition
+
+Reused prototype source files carried SPDX-License-Identifier: Apache-2.0 headers.
+Those headers are preserved. This edition changes branding, personal profile
+identity, data fixtures, simulation disclosures, dependencies and local serving.
+External runtime integrations and original Git history are excluded.
+No original copyright notice was present in the reused files beyond their
+license headers. No claim of original authorship is made for those components.
